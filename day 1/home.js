@@ -1,0 +1,1 @@
+module.exports.blabla = '<h1>Welcome to our homepage<h1> <br/><a href="/about">About</a> | <a href="/contact">Contact</a>';

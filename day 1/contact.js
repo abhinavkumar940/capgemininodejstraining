@@ -1,0 +1,1 @@
+module.exports.html = '<h1>Contact Us<h1> <br/><a href="/">Home</a> | <a href="/about">About</a>';
