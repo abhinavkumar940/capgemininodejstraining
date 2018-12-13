@@ -1,0 +1,10 @@
+<div class="product-list">
+    {{#products}}
+        <div class="product-single">
+            <img class="product-thumbnail" src="{{headerImage}}"/>
+            <h2><a href="/product/{{_id}}/edit">{{name}}</a></h2>
+            <div class="product-price">{{price}}</div>
+        </div>
+    {{/products}}
+</div>
+
